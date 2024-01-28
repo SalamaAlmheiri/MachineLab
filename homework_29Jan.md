@@ -5,7 +5,7 @@
 - https://ich.unesco.org/en/RL/wayang-puppet-theatre-00063
 - https://www.indonesia.travel/gb/en/destinations/java/yogyakarta/wayang-kulit
 
-2. The Life Clock, created by **Richard Teschner**, is an amazing piece of mechanical artistry that encapsulates the passage of time in a captivating and symbolic manner. This intricate clock, designed in the early 20th century, features a series of miniature figurines representing different stages of life, from infancy to old age. As the clock ticks, these figurines move along a circular track, symbolizing the journey of human existence from birth to death. Teschner's Life Clock is both a functional timepiece but also as a reflection on the cyclical nature of life and the inexorable passage of time.
+2. Another artwork inspired by the traditional Javanese puppetry technique is *The Life Clock*, created by **Richard Teschner**, is an amazing piece of mechanical artistry that encapsulates the passage of time in a captivating and symbolic manner. This intricate clock, designed in the early 20th century, features a series of miniature figurines representing different stages of life, from infancy to old age. As the clock ticks, these figurines move along a circular track, symbolizing the journey of human existence from birth to death. Teschner's Life Clock is both a functional timepiece but also as a reflection on the cyclical nature of life and the inexorable passage of time.
 - https://www.arthistoryproject.com/artists/richard-teschner/the-life-clock/
 - https://www.britannica.com/biography/Richard-Teschner
 - https://50watts.com/Richard-Teschner-and-His-Puppets
