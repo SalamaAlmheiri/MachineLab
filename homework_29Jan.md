@@ -1,7 +1,6 @@
 # Research Topics
 
 Themes:
-- Ocean, Marine animals
 - Inspired by famous paintings or artworks ex:starry night
 - Nature: plants, flowers and trees
 - Music: sound made by objects like marbles etc
