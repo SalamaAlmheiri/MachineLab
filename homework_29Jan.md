@@ -3,7 +3,8 @@
 Themes:
 - Ocean, Marine animals
 - Inspired by famous paintings or artworks ex:starry night
-- Nature: plants
+- Nature: plants, flowers and trees
+- Music: sound made by objects like marbles etc
 
 1. The first things that came to mind when I first saw the wooden structure that we will be using to display our clock is a puppet show or puppetry. One example of a traditional puppet theatre is **"Wayang Kulit"** an Indonesia shadow puppetry. It is a traditional form of shadow puppetry that combines intricate leather puppets, gamelan music, and storytelling to depict tales from Hindu mythology, such as the Ramayana and Mahabharata.
 - https://ich.unesco.org/en/RL/wayang-puppet-theatre-00063
