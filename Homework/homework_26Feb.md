@@ -10,3 +10,4 @@ We coded a long neopixel strip to display random colors to replicate lights in c
 
 ### Waves
 We are planning to have 2 layers of moving waves, so Fatema designed the waves in illustrator then we laser cut them on thin plywood.
+[Video](https://youtu.be/22c6OSCZlrQ)
